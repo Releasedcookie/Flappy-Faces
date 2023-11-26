@@ -1,2 +1,2 @@
 # Flappy-Faces
-Unity App Store Game "Flappy Faces" Code Repo.
+Unity Android App Store Game "Flappy Faces" Code Repo.
